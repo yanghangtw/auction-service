@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: README.md
+  checksum: 38e040b01224f177ca5e479e3a2c788326ec169952014c1d0a1a264297f34974
+- filename: src/test/java/com/thoughtworks/auctionservice/repository/AuctionRepositoryTests.java
+  checksum: 9b8ee2d0e4531b65d15bd009250c2245ca64febec3ce8fc741a095a007df254d
+version: "1.0"
